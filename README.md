@@ -1,2 +1,2 @@
 # R
-Sample R code from assignments
+Sample R code from Academia
